@@ -66,11 +66,11 @@ int main()
     #endif
 
     int T = 1;
-    cin >> T;
-    while (T--)
-    {
-        solve();
-    }
-    // solve();
+    // cin >> T;
+    // while (T--)
+    // {
+    //     solve();
+    // }
+    solve();
     return 0;
 }
