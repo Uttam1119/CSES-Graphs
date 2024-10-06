@@ -1,1 +1,0 @@
-{"name":"Local: countingRooms","url":"k:\\CSES\\Graphs\\countingRooms.cpp","tests":[{"id":1728121913995,"input":"1\n5 8\n########\n#..#...#\n####.#.#\n#..#...#\n########","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\CSES\\Graphs\\countingRooms.cpp","group":"local","local":true}
